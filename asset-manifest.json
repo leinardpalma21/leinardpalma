@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/leinardpalma/static/css/main.09504f13.css",
+    "main.js": "/leinardpalma/static/js/main.31906261.js",
+    "static/js/787.557f2448.chunk.js": "/leinardpalma/static/js/787.557f2448.chunk.js",
+    "static/media/palma.gif": "/leinardpalma/static/media/palma.161a781cef177a2f9cc0.gif",
+    "index.html": "/leinardpalma/index.html",
+    "main.09504f13.css.map": "/leinardpalma/static/css/main.09504f13.css.map",
+    "main.31906261.js.map": "/leinardpalma/static/js/main.31906261.js.map",
+    "787.557f2448.chunk.js.map": "/leinardpalma/static/js/787.557f2448.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09504f13.css",
+    "static/js/main.31906261.js"
+  ]
+}
